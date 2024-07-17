@@ -1,0 +1,70 @@
+body {
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #343a40;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    border-radius: 10px;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+#results {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.result-item {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.result-item h5 {
+    margin: 0 0 10px;
+}
+
+.result-item p {
+    margin: 0;
+}
+
+#about, #services, #contact {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+}
+
+.card-text {
+    font-size: 1rem;
+}
